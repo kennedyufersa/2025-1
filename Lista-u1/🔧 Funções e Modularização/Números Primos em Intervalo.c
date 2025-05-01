@@ -8,8 +8,7 @@ no terminal. Use o comando cd para navegar até o diretório do arquivo antes de
 // Compilação: gcc -o numeros_primos numeros_primos.c
 // Execução: ./numeros_primos
 // Observação: O programa considera que o intervalo é fechado, ou seja, inclui os limites.
-// Exemplo de uso: Se o usuário digitar 10 e 20, o programa imprimirá os números primos entre 10 e 20.
-// Exemplo de saída: Números primos entre 10 e 20: 11 13 17 19
+
 
 // biblioteca stdbool.h para uso de booleanos além de stdio.h para entrada e saída
 #include <stdio.h>
