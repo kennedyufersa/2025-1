@@ -5,7 +5,7 @@
 /* Observação:
 Certifique-se de estar no diretório correto ao executar o comando 
 no terminal. Use o comando cd para navegar até o diretório do arquivo antes de compilar:*/
-// Compilação: gcc -o numeros_primos numeros_primos.c
+// Compilação: gcc -o numeros_primos "Números Primos em Intervalo.c"
 // Execução: ./numeros_primos
 // Observação: O programa considera que o intervalo é fechado, ou seja, inclui os limites.
 
