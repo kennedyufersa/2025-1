@@ -1,4 +1,4 @@
-// Código em C para listar números primos em um intervalo fornecido pelo usuário
+// Codigo em C para inverter um número
 // Autor: [Maycon Soares Maia]
 // Doscente: [Dr. Kennedy Reurison Lopes]
 // Data: [01/05/2025]
